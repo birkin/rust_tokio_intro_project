@@ -1,6 +1,10 @@
-- next: <https://tokio.rs/tokio/tutorial/hello-tokio>
+- next:
 
-    - At: "Breaking it down"
+    -   make sure gitignore is set up to ignore the target dir
+
+    -   <https://tokio.rs/tokio/tutorial/hello-tokio>
+
+        - At: "Breaking it down"
 
 ---
 
