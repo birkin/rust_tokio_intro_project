@@ -6,6 +6,8 @@
 
             A Tokio task"""
 
+    - Interruption: finish reading: <https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md#6-boxed-trait-objects-dont-have-lifetimes>
+
 ---
 
 
